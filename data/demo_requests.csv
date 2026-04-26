@@ -1,0 +1,7 @@
+name,destination,willing_areas,date,earliest,latest
+Alice,ORD,"Library Circle;Main Circle",2026-05-10,14:00,15:30
+Ben,ORD,"Library Circle;Wilson Dr / Bulla Rd",2026-05-10,14:30,16:00
+Maya,SBN,"Library Circle;Sorin Ct",2026-05-11,14:45,15:15
+Chris,MDW,"Cavanaugh Dr;Main Circle",2026-05-10,15:00,16:00
+Nina,MDW,"Cavanaugh Dr;Moose Krause Cir",2026-05-10,15:10,16:20
+Owen,SBN,"Siegfried / Pasquerilla West Circle;Main Circle",2026-05-11,13:30,14:30
